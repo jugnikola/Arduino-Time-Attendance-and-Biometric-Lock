@@ -7,3 +7,5 @@ More documentation is to be added soon.
 
 ![Image](images/image.png)
 
+[Video 1](https://www.youtube.com/watch?v=5idrTtwI4ZU)
+[Video 2](https://www.youtube.com/watch?v=g7-9wErG2Bk)
