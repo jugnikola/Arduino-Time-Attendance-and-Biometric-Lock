@@ -4,3 +4,6 @@ This is a project inspired by many Time Attendance Systems [such as this one](ht
 ![Schematic](/images/schema_attendance.png)
 ---
 More documentation is to be added soon.
+
+![Image](images/image.png)
+
