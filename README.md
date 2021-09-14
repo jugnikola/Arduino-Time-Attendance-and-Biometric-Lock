@@ -5,11 +5,17 @@ This is a project inspired by many Time Attendance Systems [such as this one](ht
 ---
 ## Modules used in this project
 [MFRC-522 RFID 13.56 MHz Reader](https://e-radionica.com/hr/rfid-citac-mfrc-522-s-rfid-karticom.html)
+
 [Real Time Clock Module PCF85063](https://e-radionica.com/hr/rtc-real-time-clock-pcf85063-e-radionica.html)
+
 [Fingerprint sensor](https://e-radionica.com/hr/senzor-otiska-prsta.html)
+
 [MicroSD card module](https://e-radionica.com/hr/modul-za-microsd-karticu.html)
+
 Relay Board
+
 Electronic solenoid lock
+
 LCD 16x2
 ---
 Here's an image of the final device.
